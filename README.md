@@ -1,0 +1,2 @@
+# devbuddy
+Assistente de desenvolvimento
